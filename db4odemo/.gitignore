@@ -1,0 +1,26 @@
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Class Files #
+*.class
+
+db4o.license.txt
+
+# Package Files #
+*.jar
+*.war
+*.ea
+
+# System Files
+.DS_Store
+Thumbs.db
+
+
+# Database file #
+Databank.db4o
+db4o.license.txt
